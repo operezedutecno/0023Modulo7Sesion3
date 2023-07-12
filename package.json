@@ -1,0 +1,23 @@
+{
+  "name": "0023modulo7sesion3",
+  "version": "1.0.0",
+  "description": "Acceso a Datos Segunda Parte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo7Sesion3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo7Sesion3/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo7Sesion3#readme",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
